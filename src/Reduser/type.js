@@ -1,0 +1,2 @@
+const ADD_PTODUCT="ADD_PRODUCT"
+export{ADD_PTODUCT}
